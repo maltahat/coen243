@@ -8,7 +8,7 @@ int main()
     char grade;
     cout << "Please enter your grade: ";
     cin >> grade;
-
+    
     switch (grade)
     {
     case 'A':
